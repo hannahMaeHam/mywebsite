@@ -1,0 +1,33 @@
+<html>
+
+<head>
+<title> "Amsterdam: The City of Canals, Tulips, and Timeless Charm" </title>
+
+
+</style>
+</head>
+
+
+<center> <font color= white size=8 face="Arial Black">    "Amsterdam: Unwind in the Heart of History, Art and Endless Canals" </center> </font> </b>
+<hr width=1500 height=150 color=white noshade>
+
+<p>
+<center> <img src= "amsterdam.jpg" width=25% height=50%>  </center>
+
+<p> 
+<center> <font size="4" font color= pink face="Verdana">  <h1> TULLIP FLOWER STRIP </h1> </font size="4" font color= red face="Verdana">
+
+<size=2> <center> <font color= white size=2 face="Arial"> <h1> Visiting the tulip fields in Amsterdam is not only an opportunity to enjoy the natural beauty of the flowers but also a chance to immerse yourself in Dutch culture and history. It's a unique and memorable travel experience, particularly if you have an appreciation for flowers and the outdoors.
+</size=2>
+
+<p>
+<center> <img src= "van.jpg" width=25% height=50%>  </center>
+<center> <size=2> <font color= white size=2 face="Arial"> <h2> A must-visit museum for the fans of art and history. With more than 200 paintings, 500 drawings, and 700 letters related to him, this museum homes to the world’s largest collection of Vincent Van Gogh’s paintings and artifacts.
+The collection is grouped into two periods of the painter’s artistic life. His realistic works periods, which includes the famous work called “The Potato Eaters”, and the Impressionist period of his works, which hosts the most famous artwork of him, “Vase with Sunflowers”.
+</size=2>
+
+<html>
+<body bgcolor=“black">
+
+</head>
+</html>

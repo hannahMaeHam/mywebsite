@@ -1,0 +1,42 @@
+<html>
+
+<head>
+<title> DREAM DESTINATION IN LIFE! </title>
+
+
+<style>
+body {
+  background-image: url('a.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+</style>
+</head>
+
+<center> <font color= white size=8 face="Arial Black">    DREAM DESTINATION IN LIFE </center> </font> </b>
+<hr width=500 height=150 color=black noshade>
+
+<center>
+<p>
+<a href="file:///C:/Users/Vina/Desktop/IT%20ERA-%20FINAL%20PROJECT/FINAL%20PROJECT/south%20cotabato.html"> South Cotabato	</a>
+<p>
+<a href="file:///C:/Users/Vina/Desktop/IT%20ERA-%20FINAL%20PROJECT/FINAL%20PROJECT/ILOCOS%20NORTE.html"> Ilocos Norte	</a>
+<p>
+<a href="file:///C:/Users/Vina/Desktop/IT%20ERA-%20FINAL%20PROJECT/FINAL%20PROJECT/amsterdam.html"> Amsterdam	</a>
+<p>
+<a href="file:///C:/Users/Vina/Desktop/IT%20ERA-%20FINAL%20PROJECT/FINAL%20PROJECT/switz.html"> Switzerland	</a>
+<p>
+
+</center>
+<center> <font color= white size=3>
+<h1> <face="Lucia">	NEVER STOP EXPLORING THIS WORLD OF MINE	</h1> </face>
+<h2>	"Immerse yourself in the breathtaking tapestry of nature, where every sunrise paints the sky with vibrant hues, and every step leads to a new discovery. From lush, emerald forests to majestic, snow-capped peaks, the world's beauty awaits your exploration. Whether it's the tranquil melody of a babbling brook or the grandeur of a towering waterfall, nature's symphony will fill your heart with wonder. Find your sanctuary in the serene embrace of nature and let its beauty inspire your soul with ME."	</h2>
+
+</center> 
+
+
+<img src= "wow.jpg" style= "float:right" width=25% height=50%> 
+<img src= "switz.jpg" style= "float:right" width=25% height=50%> </center>
+<img src= "turk.jpg" style= "float:right" width=25% height=50%> </center>

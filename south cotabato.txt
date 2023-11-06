@@ -1,0 +1,51 @@
+<html>
+
+<head>
+<title> "South Cotabato: A Hidden Gem in the Heart of the Philippines" </title>
+
+
+</style>
+</head>
+
+<center> <font color= black size=8 face="Arial Black">    1st Hidden Gem I Wanna Go! </center> </font> </b>
+<hr width=500 height=150 color=black noshade>
+
+<img src= "yt.jpg" style= <center> width=10% height=5%> 
+
+
+<img src= "koronadal.jpg" style= "float:right" width=25% height=50%> 
+
+<p>
+<center> <font color= black size=5>
+<h1> <face="Lucia">	"South Cotabato: Where Culture, Nature, and Adventure Meet!"	</h1> </face>
+
+<align="justify">
+
+<h2> Koronadal in South Cotabato offers a blend of culture, nature, and adventure, making it a unique and attractive destination for those looking to explore the beauty and traditions of the Southern Philippines. </h2>
+
+
+</p> </align="justify">
+
+
+<p> <font color= black size=5> <align="justify">
+<img src= "lake sebu.jpg" style= "float:left" width=25% height=50%> 
+<p> 
+<center> <font size="4" font color= pink face="Verdana">  <h1> LAKE SEBU </h1> </font size="4" font color= pink face="Verdana">
+<h3> <face= "Arial">	Lake Sebu is a captivating destination located in the province of South Cotabato in the southern Philippines. It is a natural wonder known for its serene lake, lush landscapes, and the cultural richness of the T'boli indigenous people.
+Lake Sebu is a destination that offers a unique blend of natural beauty, cultural heritage, and outdoor activities. It's a place where you can immerse yourself in indigenous traditions, enjoy the tranquility of the lake, and explore the lush landscapes of South Cotabato. </h3>
+
+</p> </align="justify">
+
+
+
+<p> <font color= black size=5> <align="justify">
+<img src= "falls.jpg" style= "float:right" width=25% height=50%> 
+<p> 
+<center> <font size="4" font color= pink face="Verdana">  <h1> SEVEN FALLS OF LAKE SEBU </h1> </font size="4" font color= pink face="Verdana">
+<h4> <face= "Arial"> The Seven Falls of Lake Sebu is a captivating destination for travelers seeking adventure, natural beauty, cultural experiences, and a connection with indigenous traditions. The seven waterfalls, each with its distinct character, offer a memorable and enriching visit in the heart of South Cotabato. A must visit place I wanna go someday. </h4>
+
+
+</p>
+
+</head>
+</html>

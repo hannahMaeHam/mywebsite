@@ -1,0 +1,47 @@
+<html>
+
+<head>
+<title> "Ilocos Norte: A Timeless Journey Through History and Beauty" </title>
+
+
+<style>
+body {
+  background-image: url('windmill.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+
+</style>
+</head>
+
+<center> <font color= black size=8 face="Arial Black"> "Ilocos Norte: Where Heritage Meets the Horizon!" </center> </font> </b>
+<hr width=1000 height=150 color=black noshade>
+
+
+</p> </align="justify">
+
+
+<p> <font color= black size=5> <align="justify">
+<center> <img src= "vigan.jpg" width=25% height=50%> </center> 
+<center> <font size="4" font color= pink face="Verdana">  <h1> VIGAN PLACE, ILOCOS NORTE </h1> </font size="4" font color= yellow face="Verdana">
+<h3> <face= "Arial">	Vigan is a city where the past meets the present, offering a unique blend of history, culture, and gastronomy. A visit to Vigan allows you to step back in time and experience the charm of a well-preserved colonial city, making it a top destination for cultural and historical enthusiasts in the Philippines. </h3>
+</center>
+
+</p> 
+
+
+
+</p> 
+
+
+<p> <font color= black size=5> <align="justify">
+<center> <img src= "magellan.jpg" width=25% height=50%> </center>  
+<center> <font size="4" font color= pink face="Verdana">  <h1> MAGELLAN SHRINE </h1> </font size="4" font color= yellow face="Verdana">
+<h3> <face= "Arial">	Magellan Shrine in Ilocos Norte is a historical and cultural destination commemorating the landing of the Portuguese explorer Ferdinand Magellan in the Philippines. The shrine is situated in Barangay Banuar, in the town of Magallanes, Ilocos Norte. While Magellan Shrine may not be as famous as other tourist destinations in the Philippines, it holds historical significance as a reminder of the country's colonial past and the impact of European exploration. It offers a tranquil and reflective setting, making it a unique stop for those interested in history and cultural heritage during their visit to Ilocos Norte. </h3>
+
+</p> </align="justify">
+
+</head>
+</html>
